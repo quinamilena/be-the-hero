@@ -9,6 +9,6 @@ npm-debug.*
 *.orig.*
 web-build/
 web-report/
-
+report.20200525.151246.10596.0.001.json
 # macOS
 .DS_Store
